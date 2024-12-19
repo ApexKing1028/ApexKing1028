@@ -3,7 +3,7 @@
 <div align="left">
   <br />
   <p>
-    I've spent 8 years honing my skills in full-stack development and blockchain technology. Beginning with systems development, I focused on front-end and back-end expertise. My journey led me deep into blockchain, specializing in decentralized applications and smart contracts.
+    I've spent 10+ years honing my skills in full-stack development and blockchain technology. Beginning with systems development, I focused on front-end and back-end expertise. My journey led me deep into blockchain, specializing in decentralized applications, smart contracts and NFT.
   </p>
 
   <p>
