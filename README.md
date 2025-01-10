@@ -22,11 +22,6 @@
 
 </p>
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>:
-![](https://github-readme-stats.vercel.app/api?username=kishankumar1328&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kishankumar1328&theme=dark&hide_border=false)<br/>
-<br><br><br>
-
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kishankumar1328&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 <br><br><br>
