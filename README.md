@@ -1,9 +1,9 @@
-##  <h1 align="left"> 🚀 Senior Blockchain Engineer 🚀</h1>
+##  <h1 align="left"> 🚀 Senior Software Engineer 🚀</h1>
 
 <div align="left">
   <br />
   <p>
-    I've spent 10+ years honing my skills in full-stack development and blockchain technology. Beginning with systems development, I focused on front-end and back-end expertise. My journey led me deep into blockchain, specializing in decentralized applications, smart contracts and NFT.
+    I've spent 9+ years honing my skills in full-stack development and AI technology. Beginning with systems development, I focused on front-end and back-end expertise. My journey led me deep into AI, specializing in model training, Fine-tuning.
   </p>
 
   <p>
