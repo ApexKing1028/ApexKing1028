@@ -3,7 +3,7 @@
 <div align="left">
   <br />
   <p>
-    I've spent 9+ years honing my skills in full-stack development and AI technology. Beginning with systems development, I focused on front-end and back-end expertise. My journey led me deep into AI, specializing in model training, Fine-tuning.
+    I've spent 9+ years honing my skills in full-stack development and Blockchain technology. Beginning with systems development, I focused on front-end and back-end expertise. My journey led me deep into blockchain, specializing in dAPP, DeFi and NFT.
   </p>
 
   <p>
