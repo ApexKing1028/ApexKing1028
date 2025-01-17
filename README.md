@@ -49,6 +49,20 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
+```dart
+// tools_I_use organized
+
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "TypeScript", "Go", "Python","Solidity", "Rust", "Java", "Ruby" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "Database" : { "MongoDB", "Sqlite", "Redis", "PostgreSQL" },
+    "Editors" : { "Vscode", "Xcode", "Sublime", "Cursor", "Neovim" },
+    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+  };
+}
+```
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kishankumar1328&theme=dark&no-frame=false&no-bg=false&margin-w=4)
