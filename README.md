@@ -54,7 +54,7 @@
 
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "TypeScript", "Go", "Python","Solidity", "Rust", "Java", "Ruby" },
+    "ProgramingLanguages" : { "TypeScript", "Go", "Python", "Solidity", "Rust", "Java", "Ruby" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
     "Database" : { "MongoDB", "Sqlite", "Redis", "PostgreSQL" },
     "Editors" : { "Vscode", "Xcode", "Sublime", "Cursor", "Neovim" },
@@ -65,7 +65,6 @@ class About extends Me {
 ```
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kishankumar1328&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 <br><br><br>
 
 <div align="center" >
