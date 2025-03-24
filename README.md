@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+AI/ML+and+Business Automation+Expert.;Over+9+years+of+Experience+in+Software+Industry." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+AI/ML+and+Business Automation+Expert." alt="Typing SVG" /></a>
 </div>
 
 <div align="left">
   <br />
   <p>
-    I've spent 9+ years honing my skills in AI/ML powerd business automation development. Beginning with systems development, I focused on busines automation workflow. My journey led me deep into AI, specializing in Gen AI.
+    I've spent all my life honing my skills in AI/ML powerd business automation development. Beginning with systems development, I focused on busines automation workflow. My journey led me deep into AI, specializing in Gen AI.
   </p>
 
   <p>
