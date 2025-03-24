@@ -1,15 +1,15 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Fullstack+and+Blockchain+Engineer.;Over+9+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+AI/ML+and+Business Automation+Expert.;Over+9+years+of+Experience+in+Software+Industry." alt="Typing SVG" /></a>
 </div>
 
 <div align="left">
   <br />
   <p>
-    I've spent 9+ years honing my skills in full-stack development and Blockchain technology. Beginning with systems development, I focused on front-end and back-end expertise. My journey led me deep into blockchain, specializing in dAPP, DeFi and NFT.
+    I've spent 9+ years honing my skills in AI/ML powerd business automation development. Beginning with systems development, I focused on busines automation workflow. My journey led me deep into AI, specializing in Gen AI.
   </p>
 
   <p>
-    My passion is bridging traditional software with blockchain. I collaborate with diverse teams—designers, researchers, data scientists—to deliver impactful solutions, from optimizing smart contracts to crafting robust user interfaces.
+    My passion is bridging traditional software with business. I collaborate with diverse teams—designers, researchers, data scientists—to deliver impactful solutions, from optimizing smart contracts to crafting robust user interfaces.
   </p>
 
 </div>
@@ -72,39 +72,13 @@
     </tr>
   </table>
   
- <table>
-    <tr>
-      <td valign="center" width="100px"><b>Blockchain<b></td>
-      <td valign="center" width="100px"><b>Audit<b></td>
-    </tr>
-    <tr>
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Web3.js-blue" /> 
-        <img src="https://img.shields.io/badge/Solidity-blue" /> 
-        <img src="https://img.shields.io/badge/Polkadot-blue" /> 
-        <img src="https://img.shields.io/badge/Solana-blue" /> 
-        <img src="https://img.shields.io/badge/Golang-blue" /> 
-        <img src="https://img.shields.io/badge/Rust-blue" /> 
-        <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
-        <img src="https://img.shields.io/badge/Bitcoin-blue" />
-      </td>
-     <td valign="center" align="center" width="300px">
-       <img src="https://img.shields.io/badge/Code4rena-blue" /> 
-       <img src="https://img.shields.io/badge/Sherlock-blue" /> 
-       <img src="https://img.shields.io/badge/Hats-blue" /> 
-       <img src="https://img.shields.io/badge/Cantina-blue" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
+ 
 ```dart
 // tools_I_use organized
 
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "TypeScript", "Go", "Python", "Solidity", "Rust", "Java", "Ruby" },
+    "ProgramingLanguages" : { "TypeScript", "Go", "Python", "Java", "C++", "Ruby" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
     "Database" : { "MongoDB", "Sqlite", "Redis", "PostgreSQL" },
     "Editors" : { "Vscode", "Xcode", "Sublime", "Cursor", "Neovim" },
